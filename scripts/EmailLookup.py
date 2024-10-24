@@ -1,5 +1,5 @@
 # Imports
-from email_validate import validate
+from email_validator import validate
 import requests
 import hashlib
 
